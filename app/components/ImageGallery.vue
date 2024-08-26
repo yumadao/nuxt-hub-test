@@ -23,7 +23,7 @@ async function deleteImage (pathname: string) {
 
 <template>
   <div>
-    <h3>Images preview branch</h3>
+    <h3>Images in preview branch</h3>
     <form @submit.prevent="uploadImage">
       <label>Upload an image: <input type="file" name="image" accept="image/jpg,image/png"></label>
       <button type="submit">
