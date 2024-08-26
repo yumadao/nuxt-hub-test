@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: 'NuxtHub Starter',
+  title: 'NuxtHub Test',
   description: 'A Nuxt template to build your full-stack application on the edge.'
 })
 </script>
